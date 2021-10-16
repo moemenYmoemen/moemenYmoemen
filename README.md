@@ -19,7 +19,7 @@
 - SOLID  Principles
 - Data Structures
 - Algorithms
-- c++ 
+- C++ 
 - Python
 - LabVIEW
 - Photoshop
