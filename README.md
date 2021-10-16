@@ -9,13 +9,13 @@
 - CSS3
 - BOOTSTRAP
 - JAVASCRIPT
+- React
 - jQuery
 - SASS
 - JSON
 - AJAX
 - OOP
 - ES6
-- React
 - SOLID  Principles
 - Data Structures
 - Algorithms
