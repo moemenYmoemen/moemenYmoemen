@@ -11,7 +11,7 @@
 - JAVASCRIPT
 - React
 - jQuery
-- SASS
+- LESS
 - JSON
 - AJAX
 - OOP
